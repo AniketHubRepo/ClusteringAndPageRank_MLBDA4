@@ -11,12 +11,12 @@
 This assignment implements clustering, inverted index search engine, and PageRank using Python and PySpark.
 
 ## Repository Structure  
-CSL7110_Assignment4/
-├── Part1_Clustering/
-├── Part2_WebSearch/
-├── Part3_PageRank/
-├── data/
-└── README.md
+CSL7110_Assignment4/   
+├── Part1_Clustering/    
+├── Part2_WebSearch/    
+├── Part3_PageRank/    
+├── data/    
+└── README.md    
 
 ## Part 1: Clustering  
 Implemented:
