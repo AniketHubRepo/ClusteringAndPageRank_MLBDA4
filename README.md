@@ -27,7 +27,7 @@ Key Functions:
 - readVectorsSeq
 - kcenter
 - kmeansPP
-- kmeansObj  
+- kmeansObj  ₹
 
 ## Part 2: Web Search – Inverted Index  
 Implemented a search engine using inverted index supporting:
